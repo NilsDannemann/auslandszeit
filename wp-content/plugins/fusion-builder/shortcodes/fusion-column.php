@@ -1154,7 +1154,7 @@ function fusion_element_column() {
 						'preview_selector' => '$el',
 					],
 					'fusion_filter_placeholder'     => [
-						'selector_base' => 'fusion-builder-column-',
+						'selector_base' => 'fusion-builder-column-live-',
 					],
 				],
 			]
